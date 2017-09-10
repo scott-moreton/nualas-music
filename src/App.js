@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import './App.css';
-import LandingPage from './components/LandinPageTwo';
+//import './App.css';
+import LandingPage from './components/LandingPageThree';
 import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
 
 class App extends Component {
